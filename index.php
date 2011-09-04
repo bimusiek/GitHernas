@@ -7,6 +7,8 @@
     <body>
         <?php
         echo 'lol';
+        echo time();
+        echo 'fffiuuuutek';
         ?>
     </body>
 </html>
