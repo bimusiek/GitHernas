@@ -6,7 +6,7 @@
     </head>
     <body>
         <?php
-        // put your code here
+        echo 'lol';
         ?>
     </body>
 </html>
