@@ -10,5 +10,6 @@
         echo time();
         echo 'fffiuuuutek';
         ?>
+        <b>I love my little brohter</b>
     </body>
 </html>
